@@ -1,3 +1,10 @@
+# project specific gitignore rules
+.DS_Store
+
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
